@@ -1,0 +1,26 @@
+class Date:
+    def __init__(self, month, day, d1, d2):
+        self.month = month
+        self.day = day
+        self.d1 = 0 
+        self.d2 = 0
+        
+    def __add__(self, other):
+        day_month = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30 , 31]
+        
+    if  ?? == 0
+    
+    if  ? > 0 
+    
+    if ? < 0 
+    
+    def __str__(self, other):
+        return(d1- d2)
+    
+    jan5 = Date(1, 5)
+    jan1 = Date(1, 1)
+
+    print(jan5 - jan1)
+    print(jan1 - jan5)
+    print(jan1 - jan1)
+    print(jan5 - jan5)
